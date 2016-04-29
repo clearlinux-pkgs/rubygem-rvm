@@ -4,7 +4,7 @@
 #
 Name     : rubygem-rvm
 Version  : 1.11.3.9
-Release  : 4
+Release  : 5
 URL      : https://rubygems.org/downloads/rvm-1.11.3.9.gem
 Source0  : https://rubygems.org/downloads/rvm-1.11.3.9.gem
 Summary  : No detailed summary available
